@@ -2,24 +2,24 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
+      - name: Generate GitHub contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: Manoj-Dewda
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
