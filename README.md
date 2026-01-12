@@ -59,9 +59,22 @@ Together, let’s keep building, learning, and growing! 😄
 
 ## 🏆 My GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Manoj-Dewda&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoj-Dewda&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Dewda&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manoj-Dewda&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-Dewda&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Dewda&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manoj-Dewda/Manoj-Dewda/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 
 
 ![snake gif](https://raw.githubusercontent.com/Manoj-Dewda/Manoj-Dewda/output/github-contribution-grid-snake.svg)
