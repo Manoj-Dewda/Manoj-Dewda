@@ -71,9 +71,6 @@ Together, let’s keep building, learning, and growing! 😄
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Dewda&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manoj-Dewda/Manoj-Dewda/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 
 
