@@ -64,7 +64,7 @@ Together, let’s keep building, learning, and growing! 😄
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Dewda&layout=compact&theme=dark)
 
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Manoj-Dewda/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Manoj-Dewda/Manoj-Dewda/output/github-contribution-grid-snake.svg)
 
 ---
 
